@@ -10,7 +10,7 @@
   "author": "HSH",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^5.20.2",
+    "webpack": "^5.23.0",
     "webpack-cli": "^4.5.0",
     "webpack-dev-server": "^3.11.2",
     "wepack-cli": "0.0.1-security"
